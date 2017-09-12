@@ -1,0 +1,4 @@
+# penalty increases exhaustion by amount specified. Hunger (or saturation) is reduced by 1 when exhaustion reaches 4.
+# default value of 0.5 is equivalent to -0.125 hunger level or saturation level per cast.
+# fully depleting max hunger/saturation (34.4) after about 275 casts.
+penalty: 0.5
